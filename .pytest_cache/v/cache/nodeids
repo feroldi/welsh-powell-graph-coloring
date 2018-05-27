@@ -1,0 +1,12 @@
+[
+  "test_graph.py::test_adjacency_to_incidence",
+  "test_graph.py::test_order",
+  "test_graph.py::test_loops",
+  "test_graph.py::test_parallel_edges",
+  "test_graph.py::test_multigraph",
+  "test_graph.py::test_trivial_graph",
+  "test_graph.py::test_empty_graph",
+  "test_graph.py::test_neighbour_vertices",
+  "test_graph.py::test_complete_graph",
+  "test_graph.py::test_vertex_degree"
+]

@@ -1,0 +1,14 @@
+ordem: 4
+multigrafo: True
+grafo simples: False
+grafo trivial: False
+grafo vazio: False
+grafo completo: False
+vértices adjacentes do vértice 0: {1, 2}
+vértices adjacentes do vértice 1: {0, 3}
+vértices adjacentes do vértice 2: {0}
+vértices adjacentes do vértice 3: {1, 3}
+arestas adjacentes do vértice 0: {0, 1, 2}
+arestas adjacentes do vértice 1: {0, 3}
+arestas adjacentes do vértice 2: {1, 2}
+arestas adjacentes do vértice 3: {3, 4}
