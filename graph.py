@@ -167,6 +167,9 @@ def vertex_outdegree(graph, vertex):
 
 
 def is_adjacency_matrix(graph):
+    rows, cols = graph.shape
+    if rows != cols:
+        return False
     for i, j in itertools.combinations(range(graph.shape[1]), 2):
         if graph[i, j] != graph[j, i]:
             return False

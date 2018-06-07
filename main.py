@@ -9,8 +9,6 @@ parser.add_argument(
     dest='read_from_stdin',
     action='store_true',
     help='matrizes são lidas pela entrada padrão')
-args = parser.parse_args()
-
 
 def interactive_input_matrices():
     def input_matrix():
